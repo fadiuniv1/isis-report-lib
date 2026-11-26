@@ -8,6 +8,8 @@ draft GitHub Release, uploads to PyPI via trusted publishing and publishes the
 release last.
 
 ## [Unreleased]
+### Added
+- Portuguese (pt-BR) quickstart page in the documentation, linked from the site navigation
 
 ## [0.15.1] - 2026-11-26
 ### Added
