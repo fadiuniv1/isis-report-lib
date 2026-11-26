@@ -4,6 +4,9 @@ Crie relatórios tabulares em PDF a partir de um dicionário Python ou de um
 arquivo `.toon` compacto. Esta página cobre apenas o caminho da instalação ao
 primeiro PDF; a tabela completa de parâmetros está no README do projeto.
 
+> **Nota:** esta é uma página PT-BR isolada. A documentação completa — guia,
+> galeria, referência da API, changelog e políticas — é mantida em inglês.
+
 ## Instalação
 
 ```bash
