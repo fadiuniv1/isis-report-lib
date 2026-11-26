@@ -10,6 +10,8 @@ release last.
 ## [Unreleased]
 ### Added
 - Portuguese (pt-BR) quickstart page in the documentation, linked from the site navigation
+### Changed
+- Dockerfile pins the Python base image by digest and installs the runtime from a hash-pinned `docker/requirements.txt`
 
 ## [0.15.1] - 2026-11-26
 ### Added
